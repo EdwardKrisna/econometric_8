@@ -22,12 +22,6 @@ Panel101.csv
 - op: Binary opinion indicator
 ```
 
-## Main Results
-- Treatment Group: Countries C and F
-- Control Group: Countries A, B, D, E, G
-- Treatment Effect: -879,580,059.49
-- P-value: 0.5943
-
 ## Requirements
 ```python
 import pandas as pd
